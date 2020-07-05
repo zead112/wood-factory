@@ -1,0 +1,66 @@
+
+.container h1{
+    color:skyblue;
+}
+.dropdown-menu a:hover{
+    background: #212529;
+    color:white;
+}
+
+.WHO{
+    background-color: #f2f2f2;
+    overflow: hidden;
+
+}
+.WHO .image{
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 40%;
+}
+.WHO .info{
+    width: 50%;
+    float:left;
+    text-align: left;
+}
+.WHO .image img{
+    width: 100%;
+}
+.WHO .container h1{text-align: center;
+margin-bottom: 10px;
+}
+.container{
+    margin-top: 30px;
+   
+}
+.footer{
+    background: black;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+}
+.footer h2{
+    text-align: left;
+}
+.footer ul{
+    list-style: none;
+    padding-left: 0%;
+    float: right;
+}
+.footer ul li{
+    display: inline-block;
+ 
+}
+.footer ul li {
+    width: 34px;
+    margin-right: 20px;
+}
+.footer ul li i:hover{
+color: red;
+}
+.footer .ss{text-align: center;}
+.cntact{
+    text-align: right;
+    color: red;
+    
+}
